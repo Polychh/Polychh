@@ -1,14 +1,5 @@
-### I'm looking for a job 🔎
+### I'm looking for a job 
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Polychh&style=flat-square&color=blue" alt=""/>
@@ -23,9 +14,9 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="200"/>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 I am a beginner IOS developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> looking for my first job.
-- :seedling: I like programming,creating new Apps and explore new technologies
+- I like programming,creating new Apps and explore new technologies
 
 
 ---
