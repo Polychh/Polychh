@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
 I am a beginner IOS developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> looking for my first job.
 - :seedling: I like programming,creating new Apps and explore new technologies
-- :zap: In my free time, I'm listening to podcasts and boxing.
+
 
 ---
 
