@@ -21,12 +21,12 @@ I am a beginner IOS developer  <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :hammer_and_wrench: My IOS skills:
+### My IOS skills:
 Swift, UIKit, Foundation, Storyboards, Auto Layout, CocoaPods, CoreData, Realm, Alomofire, FireBase, Git, SQL, URLSession, OPP, Solid, MVC, MVP, Singleton
 
 ---
 
-### :white_check_mark: iOS/Swift resources, completed:
+### iOS/Swift resources, completed:
 :one: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">iOS & Swift - The Complete iOS App Development Bootcamp Dr. Angela Yu</a>  
 :two: <a href="https://seanallen.teachable.com/p/take-home">iOS Dev Job Interview Practice Sean Allen</a>  
 :three: <a href="https://www.youtube.com/watch?v=IK60_7E8rrE&list=PLnlik7Rjo4n2lNGklbWwvsmqgd-D9HqZf">Swift - основы | Курс - iOS разработка на Swift</a> 
