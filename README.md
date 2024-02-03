@@ -22,8 +22,7 @@ I am a beginner IOS developer  <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### My IOS skills:
-Swift, UIKit, Foundation, Storyboards, Auto Layout, CocoaPods, CoreData, Realm, Alomofire, FireBase, Git, SQL, URLSession, OPP, Solid, MVC, MVP, Singleton
-
+Swift, UIKit, SwiftUI, Combine, CoreData, Realm, URLSession, Async/Await, Alomofire,, Auto Layout, CocoaPods, FireBase, Git, SQL, OPP, Solid, MVC, MVP, MVVM 
 ---
 
 ### iOS/Swift resources, completed:
